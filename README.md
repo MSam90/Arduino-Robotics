@@ -13,5 +13,5 @@
 ![vehicle](https://user-images.githubusercontent.com/35721547/56829152-e2a01c80-685a-11e9-822c-26525f715c3a.png)
 ## Remote UML Diagram:
 ![remote_uml](https://user-images.githubusercontent.com/35721547/56829161-e92e9400-685a-11e9-8da4-f451f6413f2f.png)
-## Remote UML Diagram:
+## Vehicle UML Diagram:
 ![vehicle_uml](https://user-images.githubusercontent.com/35721547/56829163-ec298480-685a-11e9-8c6a-88589a83762e.png)
