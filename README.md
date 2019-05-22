@@ -1,4 +1,4 @@
-# Arduino-Robotics (RV Embedded With A Bluetooth Wireless Control Unit)
+# Arduino-Robotics (RV With An Embedded Bluetooth Wireless Control Unit)
 
 
 ## Final Vehicle Model Illustration:
